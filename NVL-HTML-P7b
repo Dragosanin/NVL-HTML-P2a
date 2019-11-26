@@ -1,0 +1,16 @@
+<body>
+<p>
+ <a name=''astro''></a>
+ Texto cualquiera
+</p>
+<p>
+ <a name=''bañera''></a>
+ Texto
+</p>
+<p>
+ <a name=''coche''></a>
+ Texto
+</p>
+<a href=''#astro''>Volver a A
+<a href=''#bañera''>Volver a B
+<a href=''#coche''>Volver a C
